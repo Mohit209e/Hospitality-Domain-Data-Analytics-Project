@@ -16,12 +16,12 @@ The primary tasks for this data analytics project were:
 - **Booking Platforms**: 6 main platforms plus others.
 
 ### Data Sets Used
-- **dim_date**: Dates, week numbers, day types.
-- **dim_hotels**: Property ID, name, category, cities.
-- **dim_rooms**: Room ID, room class.
-- **fact_aggregated_bookings**: Property ID, check-in date, room category, bookings, capacity.
-- **fact_bookings**: Booking ID, property ID, dates, guests, room category, booking platform, ratings, status, revenue.
-- **Metrics List**: Various key measures and DAX formulas.
+- **[dim_date](https://github.com/Mohit209e/Hospitality-Domain-Data-Analytics-Project/blob/742fbfebdeb416bab23b59a5ebef0f2971465b43/dim_date.csv)**: Dates, week numbers, day types.
+- **[dim_hotels](https://github.com/Mohit209e/Hospitality-Domain-Data-Analytics-Project/blob/742fbfebdeb416bab23b59a5ebef0f2971465b43/dim_hotels.csv)**: Property ID, name, category, cities.
+- **[dim_rooms](https://github.com/Mohit209e/Hospitality-Domain-Data-Analytics-Project/blob/742fbfebdeb416bab23b59a5ebef0f2971465b43/dim_rooms.csv)**: Room ID, room class.
+- **[fact_aggregated_bookings](https://github.com/Mohit209e/Hospitality-Domain-Data-Analytics-Project/blob/742fbfebdeb416bab23b59a5ebef0f2971465b43/fact_aggregated_bookings.csv)**: Property ID, check-in date, room category, bookings, capacity.
+- **[fact_bookings](https://github.com/Mohit209e/Hospitality-Domain-Data-Analytics-Project/blob/742fbfebdeb416bab23b59a5ebef0f2971465b43/fact_bookings.csv)**: Booking ID, property ID, dates, guests, room category, booking platform, ratings, status, revenue.
+- **[Metrics List](https://github.com/Mohit209e/Hospitality-Domain-Data-Analytics-Project/blob/742fbfebdeb416bab23b59a5ebef0f2971465b43/metrics%20list.xlsx)**: Various key measures and DAX formulas.
 
 ## Dashboard and Report
 A comprehensive report was created using the provided data, focusing on financial statistics and hotel performance.
@@ -43,13 +43,10 @@ Focused on financial performance with similar filters, excluding performance met
 - **By Room Class**: Performance differences across room categories.
 - **By City**: Revenue and rate comparisons among cities where AtliQ Grands operates.
 
-## Project Files
-- **Data File**: Not publicly available.
-- **Presentation**: Not publicly available.
-
 ## Live Power BI Dashboard
 - [View the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDU0YThmZWQtMjAzZS00ZDJkLWI5OTEtYmIyYmVhMWIzZmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Acknowledgments
 - Codebasics for the challenge opportunity.
 
+## Thank You!
